@@ -1,6 +1,10 @@
+import Nav from "../components/Nav"
+
 const Sections = () => {
     return (
-        <h1>Sections</h1>
+        <>
+            <Nav />
+        </>
     )
 }
 
