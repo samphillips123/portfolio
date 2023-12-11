@@ -1,9 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import Sections from '../src/pages/Sections'
 
 function App() {
   return (
-    <h1 className='text-3xl font-bold underline'> Hello world! </h1>
+    <div>
+      <Sections />
+    </div>
   );
 }
 
