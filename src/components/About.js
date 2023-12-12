@@ -27,7 +27,7 @@ const About = () => {
                 data-aos-delay='100'
                 className='mt-6 text-lg leading-8'
               >
-                In his spare time, Sam is an avid cyclist. After retiring from his successful collegiate cycling career at Colorado Mesa University, you will find him chasing around the 'groms' from the Salinas HS mtb team and riding for the pure joy of the sport. When not riding, you can find Sam tending to his native plant gardens, cooking another paella or baked goods, or spending time with his partner, Sused, and their fur baby, Moby, the whippet. 
+                In his spare time, Sam is an avid cyclist. After retiring from his successful collegiate cycling career at Colorado Mesa University, you will find him chasing around the 'groms' from the Salinas HS mtb team and riding for the pure joy of the sport. When not riding, you can find Sam tending to his native plant gardens, cooking another paella or baked goods, or spending time with his partner, Sused, and Moby, their whippet. 
               </p>
             </div>
           </div>
