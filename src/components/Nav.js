@@ -117,7 +117,7 @@ const Nav = () => {
                         <Link to='home' duration={0} smooth={true} className='cursor-pointer' >
                             <div className='flex items-center justify-center' >
                                 {/* <img src={NSLogo} alt='NeuroSynth Logo' className='w-12' /> */}
-                                <div className='flex flex-col justify-center -mx-2 leading-4'>
+                                <div className='flex justify-center -mx-2 leading-4'>
                                     <h1 className='font-black text-primary-green'>Samuel</h1>
                                     <h1 className='font-normal'>Phillips</h1>
                                 </div>
@@ -174,7 +174,7 @@ const Nav = () => {
                         >
                             <div className='flex items-center justify-center' >
                                 {/* <img src={NSLogo} alt='NeuroSynth Logo' className='w-12' /> */}
-                                <div className='flex flex-col justify-center -mx-2 leading-4'>
+                                <div className='flex justify-center -mx-2 leading-4'>
                                     <h1 className='font-black text-primary-green'>Samuel</h1>
                                     <h1 className='font-normal'>Phillips</h1>
                                 </div>
