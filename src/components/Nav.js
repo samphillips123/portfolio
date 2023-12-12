@@ -141,15 +141,7 @@ const Nav = () => {
                                 Projects
                             </Link>
                             <Link
-                                to='resume'
-                                duration={0}
-                                smooth={true}
-                                className='cursor-pointer text-base hover:text-primary-green transition duration-200'
-                            >
-                                Resume
-                            </Link>
-                            <Link
-                                to='Contact'
+                                to='contact'
                                 duration={0}
                                 smooth={true}
                                 className='cursor-pointer text-base hover:text-primary-green transition duration-200'
@@ -233,16 +225,6 @@ const Nav = () => {
                                     onClick={() => setToggled(false)}
                                 >
                                     Projects
-                                </Link>
-                            </motion.div>
-                            <motion.div variants={navItemMotion} >
-                                <Link
-                                    to='resume'
-                                    smooth={true}
-                                    className='cursor-pointer text-2xl sm:text-4xl'
-                                    onClick={() => setToggled(false)}
-                                >
-                                    Resume
                                 </Link>
                             </motion.div>
                             <motion.div variants={navItemMotion} >

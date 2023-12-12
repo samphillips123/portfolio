@@ -10,9 +10,6 @@ const Contact = () => {
                     <h2 className='text-4xl font-bold tracking-tight text-primary-green sm:text-6xl'>
                         Contact
                     </h2>
-                    <p className='mt-6 text-lg leading-8'>
-
-                    </p>
                     <p className='mt-4 text-lg leading-8'>
                         If you'd like to connect, feel free to send me an email!
                     </p>
