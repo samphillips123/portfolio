@@ -15,16 +15,17 @@ const Contact = () => {
                     <p className='mt-4 text-lg leading-8'>
                         If you'd like to connect, feel free to send me an email!
                     </p>
-
                     <span className='font-bold text-2xl'>
-                            sphillips123@gmail.com
-                        </span>.
-                    <a href='https://www.linkedin.com/in/samuel-phillips/' target='_blank' >
-                        <img src={LinkedInLogo} alt='LinkedIn logo with link to profile.' />
-                    </a>
-                    <a href='https://github.com/samphillips123' target='_blank' >
-                        <img src={GitHubLogo} alt='GitHub logo with link to profile.' />
-                    </a>
+                        sphillips123@gmail.com
+                    </span>.
+                    <div className='flex justify-center'>
+                        <a className='m-5' href='https://www.linkedin.com/in/samuel-phillips/' target='_blank' >
+                            <img src={LinkedInLogo} alt='LinkedIn logo with link to profile.' />
+                        </a>
+                        <a className='m-5' href='https://github.com/samphillips123' target='_blank' >
+                            <img src={GitHubLogo} alt='GitHub logo with link to profile.' />
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
